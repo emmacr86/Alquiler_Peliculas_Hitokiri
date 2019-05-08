@@ -1,0 +1,4 @@
+cachacox,1234,2001,11/11/2017,false,Activo
+emmanuel,1234,2002,11/11/2017,false,Inactivo
+leo,1234,2003,1/11/2017,false,Inactivo
+jojo,1234,2004,14/12/2017,false,Activo

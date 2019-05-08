@@ -1,0 +1,4 @@
+Carlos,Chacon,Quesada,112830908,2001,13/6/1986,Activo
+Emmanuel,Masis,Serrano,189563241,2002,9/11/1986,Activo
+Leo,Chacon,Jimenez,112358998,2003,8/11/2017,Activo
+Noel,Fernandez,Paisano,123265898,2004,5/12/2017,Activo

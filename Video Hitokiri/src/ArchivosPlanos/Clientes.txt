@@ -1,0 +1,12 @@
+Carlos,Chacon,Quesada,13/6/1986,112830908,1001,Abangares,Guanacaste,Las Juntas,Urbanizacion Jonas casa #29 ,Femenino,Abogado/a,Activo
+Emmanuel,Masis,Serrano,9/11/1990,11220555,1002,Vázquez de Coronado,San José,Patalillo,Urbanizacion Jonas casa #29 ,Masculino,Ingeniero/a,Activo
+Jonathan,Morales,Cordoba,19/8/1991,112850749,1003,Abangares,Guanacaste,Páramo,Urbanizacion Jonas casa #29 ,Masculino,Cirujano/a,Activo
+Juan,Herrera,Brenes,2/11/1990,114890346,1004,Goicoechea,San José,Zapote,San Pedro centro,Masculino,Agente de viaje,Inactivo
+Maria,Jimenez,Ramirez,11/11/1987,118461236,1005,Santa Bárbara,Heredia,Rosario,Heredia Centro,Femenino,Florista,Inactivo
+Pablo,Lopez,Astua,15/11/1978,112365841,1006,Pococí,Limón,Quitirrisí,Urbanizacion Los Alpes casa # 0,Masculino,Cirujano/a,Activo
+Cristopher,Rivera,Sevilla,8/11/1990,112964444,1007,San José,San José,Carmen,Coronado,Masculino,Abogado/a,Inactivo
+Tony,Melendez,Corrales,10/3/1992,112654326,1008,Alajuelita,San José,Alajuelita,San Jose Centro,Masculino,Policía,Activo
+Julio,Blanco,Chacon,6/12/1995,112654357,1009,Alvarado,Cartago,Pacayas,Dulce Nombre,Masculino,Piloto,Activo
+Julian,Monge,Perez,13/12/1980,124365879,1010,Buenos Aires,Puntarenas,Potrero Grande,El puerto,Masculino,Abogado/a,Inactivo
+Pedro,Martinez,Conejo,10/12/1950,126458796,1011,Vázquez de Coronado,San José,San Rafael,Barrio San Martin,Masculino,Farmacéutico/a,Activo
+Francisco,Arguedas,Chaverri,15/8/1998,141252363,1012,Osa,Puntarenas,Bahía Drake,Corcovado parque nacional,Masculino,Veterinario/a,Activo

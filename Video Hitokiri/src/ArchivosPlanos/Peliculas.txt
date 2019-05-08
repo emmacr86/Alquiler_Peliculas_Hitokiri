@@ -1,0 +1,8 @@
+1234,Matrix,Accion,-2,Activo
+1235,Matrix1,Accion,2,Activo
+1236,Matrix2,Acción,1,Activo
+1237,Batman,Ciencia ficción,4,Activo
+1238,SuperMan,Ciencia ficción,2,Activo
+1239,Mad Max,Acción,3,Activo
+1240,Spiderman,Acción,10,Inactivo
+1241,Gladiador,Histórico,5,Activo

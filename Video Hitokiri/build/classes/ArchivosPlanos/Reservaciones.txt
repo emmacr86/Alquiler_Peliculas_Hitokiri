@@ -1,0 +1,5 @@
+1012,Francisco Arguedas,Matrix,5/12/2017,3,Inactivo,Facturar
+1006,Pablo Lopez,Matrix,5/12/2017,3,Inactivo,Facturar
+1006,Pablo Lopez,Matrix,5/12/2017,3,Activo,No Facturar
+1001,Carlos Chacon,Matrix,1/12/2017,3,Activo,Facturar
+1001,Carlos Chacon,Matrix,1/12/2017,3,Inactivo,Facturar
